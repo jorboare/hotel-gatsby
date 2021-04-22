@@ -47,7 +47,7 @@ const ImagenHotel = () => {
         }
     `)
 
-    console.log(image.sharp.fluid)
+
     return (
         <ImageBackground
             tag='section'
